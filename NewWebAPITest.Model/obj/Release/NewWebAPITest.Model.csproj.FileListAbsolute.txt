@@ -1,0 +1,4 @@
+D:\NewWebAPITest\NewWebAPITest.Model\bin\Release\NewWebAPITest.Model.dll
+D:\NewWebAPITest\NewWebAPITest.Model\bin\Release\NewWebAPITest.Model.pdb
+D:\NewWebAPITest\NewWebAPITest.Model\obj\Release\NewWebAPITest.Model.dll
+D:\NewWebAPITest\NewWebAPITest.Model\obj\Release\NewWebAPITest.Model.pdb

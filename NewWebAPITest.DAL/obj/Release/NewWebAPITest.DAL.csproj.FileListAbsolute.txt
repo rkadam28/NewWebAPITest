@@ -1,0 +1,12 @@
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\NewWebAPITest.DAL.dll.config
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\NewWebAPITest.DAL.dll
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\NewWebAPITest.DAL.pdb
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\EntityFramework.dll
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\NewWebAPITest.Model.dll
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\NewWebAPITest.Model.pdb
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\EntityFramework.xml
+D:\NewWebAPITest\NewWebAPITest.DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\NewWebAPITest\NewWebAPITest.DAL\obj\Release\NewWebAPITest.DAL.csprojResolveAssemblyReference.cache
+D:\NewWebAPITest\NewWebAPITest.DAL\obj\Release\NewWebAPITest.DAL.dll
+D:\NewWebAPITest\NewWebAPITest.DAL\obj\Release\NewWebAPITest.DAL.pdb
